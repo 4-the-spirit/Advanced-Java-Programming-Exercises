@@ -7,7 +7,8 @@ public enum UnitLabel {
 	METERS("meters"),
 	KILOMETERS("km"),
 	HOURS("hours"),
-	KILOGRAMS("kg");
+	KILOGRAMS("kg"),
+	MILLIGRAMS("mg");
 	
 	private String unit;
 	

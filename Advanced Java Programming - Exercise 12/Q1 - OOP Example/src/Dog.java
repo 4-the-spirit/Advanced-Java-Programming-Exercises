@@ -47,4 +47,9 @@ public class Dog extends Mammal {
 		return (Dog) super.clone();
 	}
 	
+	@Override
+	public void eat(String food) {
+		System.out.println("\nA Dog is currently eating " + food + "...\n");
+	}
+	
 }

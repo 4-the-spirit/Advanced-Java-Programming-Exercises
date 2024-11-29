@@ -53,4 +53,9 @@ public class Tiger extends Mammal {
 	public void climb(double height) {
 		System.out.println(displayInformation(OperationLabel.CLIMB, Double.toString(height), UnitLabel.METERS));
 	}
+	
+	@Override
+	public void eat(String food) {
+		System.out.println("\nA Tiger is currently eating " + food + "...\n");
+	}
 }
