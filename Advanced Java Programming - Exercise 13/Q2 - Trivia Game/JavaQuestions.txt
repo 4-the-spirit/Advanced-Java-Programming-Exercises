@@ -1,0 +1,50 @@
+What is the purpose of generics in Java?
+To allow type-safe collections and reduce runtime errors.
+To manage memory more efficiently.
+To provide support for functional programming.
+To enable dynamic method dispatch.
+Which of the following is a valid generic method signature?
+public <T> void printArray(T[] array)
+public void <T> printArray(T[] array)
+public T void printArray(T[] array)
+public void printArray<T>(T[] array)
+What does the `join()` method do in Java multithreading?
+It waits for the thread to finish execution.
+It starts the thread execution.
+It stops the thread immediately.
+It merges two threads into one.
+Which of these is not a valid state of a thread in Java?
+Suspended
+Runnable
+Blocked
+Terminated
+What is inheritance in Java?
+The mechanism where one class acquires the properties of another class.
+The process of creating a new class without any superclass.
+A way to encapsulate data in private fields.
+A method to implement multithreading.
+Which keyword is used to inherit a class in Java?
+extends
+implements
+inherits
+super
+What is polymorphism in Java?
+The ability of an object to take many forms.
+The process of hiding implementation details.
+The use of multiple interfaces in a single class.
+A technique for data abstraction.
+Which type of polymorphism is resolved during runtime?
+Dynamic method dispatch
+Compile-time method overloading
+Static method overriding
+Abstract class inheritance
+What is the default access modifier in Java?
+Package-private (default)
+public
+private
+protected
+Which of the following is not a feature of Java?
+Supports pointers
+Platform independence
+Object-oriented
+Automatic garbage collection
