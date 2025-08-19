@@ -1,4 +1,4 @@
-# 🚀 Advanced-Java-Programming-Exercises
+# 🚀 JavaFX Desktop Applications
 This repository showcases a collection of advanced Java applications built with **JavaFX**, focusing on concepts such as **Object-Oriented Programming (OOP)**, **Generics**, and **Multithreading**. Each project demonstrates practical applications of Java and provides an interactive desktop experience.
 
 ## 📂 Applications
