@@ -12,3 +12,8 @@ This repository showcases a collection of advanced Java applications built with 
 
 * **Java** (Advanced concepts: OOP, Generics, Multithreading)
 * **JavaFX** for desktop UI development
+
+![Image 4](images/1735310315247.jpeg)
+![Image 1](images/1735309984826.jpeg)
+![Image 2](images/1735310023084.jpeg)
+![Image 3](images/1735310110224.jpeg)
